@@ -56,18 +56,12 @@ const languageString = {
             'SCORE_IS_MESSAGE': 'Your score is %s. ',
         },
     },
-    'en-US': {
+    'en': {
         'translation': {
-            'QUESTIONS': questions['QUESTIONS_EN_US'],
+            'QUESTIONS': questions['QUESTIONS_EN'],
             'GAME_NAME': 'American Reindeer Trivia', // Be sure to change this for your skill.
         },
-    },
-    'en-GB': {
-        'translation': {
-            'QUESTIONS': questions['QUESTIONS_EN_GB'],
-            'GAME_NAME': 'British Reindeer Trivia', // Be sure to change this for your skill.
-        },
-    },
+    }
     'de': {
         'translation': {
             'QUESTIONS': questions['QUESTIONS_DE_DE'],
