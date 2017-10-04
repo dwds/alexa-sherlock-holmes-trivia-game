@@ -8,7 +8,7 @@ module.exports = {
     QUESTIONS_EN: [
         {
             'Which story features the first appearance of Irene Adler?': [
-                '13,000',
+                'A Scandal in Bohemia',
                 '1,200',
                 '5,000',
                 '700',
@@ -18,7 +18,7 @@ module.exports = {
         },
         {
             'Which story features the first appearance of Professor Moriarty?': [
-                'Japan',
+                'The Final Problem',
                 'United States',
                 'Finland',
                 'Germany',
@@ -29,7 +29,7 @@ module.exports = {
         },
         {
             'Which story features the first appearance of Inspector Lestrade?': [
-                'Wunorse Openslae',
+                'A Study in Scarlet',
                 'Alabaster Snowball',
                 'Bushy Evergreen',
                 'Pepper Minstix',
@@ -37,7 +37,7 @@ module.exports = {
         },
         {
             'Which story features the first appearance of Mycroft Holmes?': [
-                'Girls',
+                'The Greek Interpreter',
                 'Boys',
                 'Girls and boys',
                 'No way to tell',
@@ -45,7 +45,15 @@ module.exports = {
         },
         {
             'Which story features the first appearance of the Baker Street Irregulars': [
-                'Lichen',
+                'A Study in Scarlet',
+                'Grasses',
+                'Leaves',
+                'Berries',
+            ],
+        },
+        {
+            'What is the name of the head of the Baker Street Irregulars?': [
+                'Wiggins',
                 'Grasses',
                 'Leaves',
                 'Berries',
@@ -53,8 +61,7 @@ module.exports = {
         },
         {
             'What is the name of Watson\'s first wife?': [
-              // mary morstan
-                'Lichen',
+                'Mary Morstan',
                 'Grasses',
                 'Leaves',
                 'Berries',
@@ -62,8 +69,7 @@ module.exports = {
         },
         {
             'What is the name of Holmes and Watson\'s landlady at 221B Baker Street?': [
-              // mrs. hudson
-                'Lichen',
+                'Mrs. Hudson',
                 'Grasses',
                 'Leaves',
                 'Berries',
@@ -71,8 +77,7 @@ module.exports = {
         },
         {
             'Which was the last Holmes story to be published?': [
-              // Shoscombe Old Place
-                '3000 miles',
+                'Shoscombe Old Place',
                 '700 miles',
                 '500 miles',
                 '0 miles',
@@ -80,7 +85,7 @@ module.exports = {
         },
         {
             'What occupation does Holmes take up after retiring from detective work?': [
-                'Lichen',
+                'beekeeping',
                 'Grasses',
                 'Leaves',
                 'Berries',
@@ -88,17 +93,7 @@ module.exports = {
         },
         {
             'What two letters does Holmes write into the wall of his apartment with bullet holes?': [
-              // VR
-                'Lichen',
-                'Grasses',
-                'Leaves',
-                'Berries',
-            ],
-        },
-        {
-            'Holmes wrote a monograph on which subject?': [
-              // tobacco ash
-                'Lichen',
+                'V.R.',
                 'Grasses',
                 'Leaves',
                 'Berries',
@@ -106,8 +101,7 @@ module.exports = {
         },
         {
             'What is the martial art that Holmes says he used to overcome Moriarty at the Reichenbach Falls?': [
-              // baritsu
-                'Lichen',
+                'baritsu',
                 'Grasses',
                 'Leaves',
                 'Berries',
@@ -115,8 +109,7 @@ module.exports = {
         },
         {
             'In The Speckled Band, what object is bent by both Dr. Roylott and Holmes as a show of strength?': [
-              // fireplace poker
-                'Lichen',
+                'fireplace poker',
                 'Grasses',
                 'Leaves',
                 'Berries',
@@ -124,8 +117,7 @@ module.exports = {
         },
         {
             'In which story does Holmes diguise himself as a clergyman?': [
-              // Scandal
-                'Lichen',
+                'A Scandal in Bohemia',
                 'Grasses',
                 'Leaves',
                 'Berries',
@@ -133,8 +125,7 @@ module.exports = {
         },
         {
             'In which story does Holmes diguise himself as an elderly woman?': [
-              // Mazarin stone
-                'Lichen',
+                'The Mazarin Stone',
                 'Grasses',
                 'Leaves',
                 'Berries',
@@ -142,8 +133,7 @@ module.exports = {
         },
         {
             'What was Holmes disguised as when he reveals himself to Watson after his supposed death?': [
-              // old book collector
-                'Lichen',
+                'an old book collector',
                 'Grasses',
                 'Leaves',
                 'Berries',
@@ -151,7 +141,7 @@ module.exports = {
         },
         {
             'Which story features the first appearance of Mrs. Hudson?': [
-                'Caribou live on all continents',
+                'The Sign of Four',
                 'Both reindeer and Caribou are the same species',
                 'Caribou are bigger than reindeer',
                 'Reindeer live in Scandinavia and Russia',
@@ -159,7 +149,7 @@ module.exports = {
         },
         {
             'In which story does Watson meet Mary Morstan?': [
-                '1964',
+                'The Sign of Four',
                 '1979',
                 '2000',
                 '1956',
@@ -167,7 +157,7 @@ module.exports = {
         },
         {
             'What was the first Holmes story published in Strand Magazine?': [
-                'Billie Mae Richards',
+                'A Scandal in Bohemia',
                 'Burl Ives',
                 'Paul Soles',
                 'Lady Gaga',
@@ -175,8 +165,7 @@ module.exports = {
         },
         {
             'Which is the only short story to be divided into two parts?': [
-              // wisteria lodge
-                'Billie Mae Richards',
+                'Wisteria Lodge',
                 'Burl Ives',
                 'Paul Soles',
                 'Lady Gaga',
@@ -184,8 +173,7 @@ module.exports = {
         },
         {
             'Which story features elements of science-fiction, with a man taking on traits of a monkey?': [
-              // vreeping man
-                'Billie Mae Richards',
+                'The Creeping Man',
                 'Burl Ives',
                 'Paul Soles',
                 'Lady Gaga',
@@ -193,8 +181,7 @@ module.exports = {
         },
         {
             'In which story is Holmes hired by a rugby coach?': [
-              // 3/4
-                'Billie Mae Richards',
+                'The Missing Three-Quarter',
                 'Burl Ives',
                 'Paul Soles',
                 'Lady Gaga',
@@ -202,8 +189,7 @@ module.exports = {
         },
         {
             'In which story does Holmes catch the criminal by faking a fire?': [
-              // norwood builder
-                'Billie Mae Richards',
+                'The Norwood Builder',
                 'Burl Ives',
                 'Paul Soles',
                 'Lady Gaga',
@@ -211,8 +197,7 @@ module.exports = {
         },
         {
             'What does Holmes keep as a reward at the end of A Scandal in Bohemia?': [
-              // norwood builder
-                'Billie Mae Richards',
+                'a photograph of Irene Adler',
                 'Burl Ives',
                 'Paul Soles',
                 'Lady Gaga',
@@ -220,7 +205,7 @@ module.exports = {
         },
         {
             'Which story features the return of Holmes after his supposed death at Reichenbach Falls?': [
-                'Montgomery Ward',
+                'The Empty House',
                 'Sears',
                 'Macys',
                 'Kmart',
@@ -228,7 +213,7 @@ module.exports = {
         },
         {
             'Which story features Colonel Sebastian Moran as the primary villain?': [
-                'Dunder',
+                'The Empty House',
                 'Donny',
                 'Dweedle',
                 'Dreamy',
@@ -236,7 +221,7 @@ module.exports = {
         },
         {
             'In which story does Watson find Holmes in an opium den?': [
-                'Robert May',
+                'The Man with the Twisted Lip',
                 'Johnny Marks',
                 'Santa',
                 'J.K. Rowling',
@@ -244,7 +229,7 @@ module.exports = {
         },
         {
             'Which story first reveals Holmes use of a "seven percent solution"?': [
-                'North Pole',
+                'The Sign of Four',
                 'Lapland',
                 'Korvatunturi mountain',
                 'Finland',
@@ -252,7 +237,7 @@ module.exports = {
         },
         {
             'The "seven percent solution" refers to what?': [
-                'Magical Reindeer Dust',
+                'cocaine',
                 'Fusion',
                 'Amanita muscaria',
                 'Elves',
@@ -260,7 +245,7 @@ module.exports = {
         },
         {
             'Which story was adapted from a play?': [
-                '36',
+                'The Mazarin Stone',
                 '24',
                 '16',
                 '8',
@@ -268,7 +253,7 @@ module.exports = {
         },
         {
             'What is the name of the illustrator who depicted Holmes in his iconic deerstalker cap?': [
-                'Vixen',
+                'Sidney Paget',
                 'Clarice',
                 'Cupid',
                 'Cupid',
@@ -276,7 +261,7 @@ module.exports = {
         },
         {
             'Which story features a gem hidden inside a Christmas goose?': [
-                'Sam',
+                'The Blue Carbuncle',
                 'Frosty',
                 'Burl',
                 'Snowy',
@@ -284,7 +269,7 @@ module.exports = {
         },
         {
             'Which story describes Holmes\' first case?': [
-                'Donner',
+                'The Gloria Scott',
                 'Dasher',
                 'Blixen',
                 'Comet',
@@ -292,7 +277,7 @@ module.exports = {
         },
         {
             'Which story features a gem hidden inside a plaster bust?': [
-                'Comet',
+                'The Six Napoleons',
                 'Blixen',
                 'Donner',
                 'Dasher',
@@ -300,7 +285,7 @@ module.exports = {
         },
         {
             'In which story does Holmes\' client recieve an ominous letter from the Ku Klux Klan?': [
-                'Fireball',
+                'The Five Orange Pips',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -308,7 +293,7 @@ module.exports = {
         },
         {
             'Which story centers around a missing race horse?': [
-                'Fireball',
+                'Silver Blaze',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -316,7 +301,7 @@ module.exports = {
         },
         {
             'Which story involves a mystery of two severed human ears?': [
-                'Fireball',
+                'The Cardboard Box',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -324,7 +309,7 @@ module.exports = {
         },
         {
             'Which story features a secret interracial marriage?': [
-                'Fireball',
+                'The Yellow Face',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -332,7 +317,7 @@ module.exports = {
         },
         {
             'In which story does Holmes fight Professor Moriarty to the death?': [
-                'Fireball',
+                'The Final Problem',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -340,8 +325,7 @@ module.exports = {
         },
         {
             'What is the name of the bog in The Hound of the Basekervilles?': [
-              // Grimpen Mire
-                'Fireball',
+                'Grimpen Mire',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -349,8 +333,7 @@ module.exports = {
         },
         {
             'In which story is a missing dumbbell a key clue?': [
-              // Valley of Fear
-                'Fireball',
+                'The Valley of Fear',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -358,8 +341,7 @@ module.exports = {
         },
         {
             'In which story does Holmes find bicycle tracks and cow tracks?': [
-              // Priory School
-                'Fireball',
+                'The Priory School',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -367,8 +349,7 @@ module.exports = {
         },
         {
             'Which villian was inspired by a real life blackmailer?': [
-              // CAM
-                'Fireball',
+                'Charles Augustus Milverton',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -376,8 +357,7 @@ module.exports = {
         },
         {
             'In The Man With the Twisted Lip, what name does Mary Morstan call Watson?': [
-              // James
-                'Fireball',
+                'James',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -385,8 +365,7 @@ module.exports = {
         },
         {
             'In what country are the Reichenbach Falls?': [
-              // James
-                'Fireball',
+                'Switzerland',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -394,8 +373,7 @@ module.exports = {
         },
         {
             'What is the name of the club to which Mycroft belongs?': [
-              // Diogenes Club
-                'Fireball',
+                'Diogenes Club',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -403,7 +381,7 @@ module.exports = {
         },
         {
             'Which story involves a series of coded messages written with stick figures?': [
-                'Fireball',
+                'The Dancing Men',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -411,7 +389,7 @@ module.exports = {
         },
         {
             'Which story involves a series of coded messages sent by waving a candle in a window?': [
-                'Fireball',
+                'The Red Circle',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -419,7 +397,7 @@ module.exports = {
         },
         {
             'In which story does Holmes use a copy of Whitaker\'s Almanac to decipher a message?': [
-                'Fireball',
+                'The Valley of Fear',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -427,7 +405,7 @@ module.exports = {
         },
         {
             'Which story involves someone cheating on an exam?': [
-                'Fireball',
+                'The Three Students',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -435,7 +413,7 @@ module.exports = {
         },
         {
             'In which story was the murderer a Russian Nihilist?': [
-                'Fireball',
+                'The Golden Pince-Nez',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -443,8 +421,7 @@ module.exports = {
         },
         {
             'What is the name of the dog Holmes borrows in The Sign of Four?': [
-              // Toby
-                'Fireball',
+                'Toby',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -452,7 +429,7 @@ module.exports = {
         },
         {
             'Which story culminates in a boat chase down the River Thames?': [
-                'Fireball',
+                'The Sign of Four',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -460,8 +437,7 @@ module.exports = {
         },
         {
             'Which story was mentioned twice by Watson in other stories before being published?': [
-              // Second Stain
-                'Fireball',
+                'The Second Stain',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -469,7 +445,7 @@ module.exports = {
         },
         {
             'Which story was published between the events of Holmes\' supposed death and his return?': [
-                'Fireball',
+                'The Hound of the Baskervilles',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -477,7 +453,7 @@ module.exports = {
         },
         {
             'In which story does Holmes starve himself as part of a ruse?': [
-                'Fireball',
+                'The Dying Detective',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -485,8 +461,7 @@ module.exports = {
         },
         {
             'Which story involves an unusually big coffin?': [
-              // Lady Carfax
-                'Fireball',
+                'The Disappearance of Lady Frances Carfax',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -494,7 +469,7 @@ module.exports = {
         },
         {
             'Which story is set on the eve of World War One?': [
-                'Fireball',
+                'His Last Bow',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -502,8 +477,7 @@ module.exports = {
         },
         {
             'In which story is someone murdered with a harpoon?': [
-              // black peter
-                'Fireball',
+                'Black Peter',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -511,8 +485,7 @@ module.exports = {
         },
         {
             'In which story is someone murdered with a snake?': [
-              // speckled band
-                'Fireball',
+                'The Speckled Band',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -520,8 +493,7 @@ module.exports = {
         },
         {
             'In which story is someone murdered with a poisonous root?': [
-              // devil's foot
-                'Fireball',
+                'The Devil\'s Foot',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -529,8 +501,7 @@ module.exports = {
         },
         {
             'In which story is someone nearly crushed to death in a hydraulic press?': [
-              // engineer's thumb
-                'Fireball',
+                'The Engineer\'s Thumb',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -538,7 +509,7 @@ module.exports = {
         },
         {
             'In which story does Holmes tie Watson\'s revolver to a rock?': [
-                'Fireball',
+                'The Problem of Thor Bridge',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -546,8 +517,7 @@ module.exports = {
         },
         {
             'In which story do Holmes and Watson prevent a forced marriage?': [
-              // solitary cyclist
-                'Fireball',
+                'The Solitary Cyclist',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -555,8 +525,7 @@ module.exports = {
         },
         {
             'Which story involves a man who makes a living as a professional beggar?': [
-              // twisted lip
-                'Fireball',
+                'The Man with the Twisted Lip',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -564,8 +533,7 @@ module.exports = {
         },
         {
             'In A Study in Scarlet, what is the word written in blood on the wall?': [
-              // RACHE
-                'Fireball',
+                'RACHE',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -573,7 +541,7 @@ module.exports = {
         },
         {
             'What was the first Sherlock Holmes story published?': [
-                'Fireball',
+                'A Study in Scarlet',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -581,8 +549,7 @@ module.exports = {
         },
         {
             'In what war did Watson serve?': [
-              // Second Anglo-Afghan War
-                'Fireball',
+                'Second Anglo-Afghan War',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -590,8 +557,7 @@ module.exports = {
         },
         {
             'Where do Holmes and Watson first meet?': [
-              // St. Bartholomew's Hospital
-                'Fireball',
+                'St. Bartholomew\'s Hospital',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -599,8 +565,7 @@ module.exports = {
         },
         {
             'In The Sign of Four, what islands are Tonga from?': [
-              // Andaman Islands
-                'Fireball',
+                'Andaman Islands',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -608,8 +573,7 @@ module.exports = {
         },
         {
             'In which story does Watson attempt to use Holmes\' methods of deduction on Dr. Mortimer\'s walking stick?': [
-              // HoB
-                'Fireball',
+                'The Hound of the Baskervilles',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -617,8 +581,7 @@ module.exports = {
         },
         {
             'In The Valley of Fear, what is the real name of the Pinkerton detective who poses as John McMurdo?': [
-              // Birdy Edwards
-                'Fireball',
+                'Birdy Edwards',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -626,8 +589,7 @@ module.exports = {
         },
         {
             'In The Valley of Fear, what is the name of the gang that terrorizes the valley?': [
-              // The Scowrers
-                'Fireball',
+                'The Scowrers',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -635,8 +597,7 @@ module.exports = {
         },
         {
             'In which story does Watson learn everything he can about Chinese pottery?': [
-              // The Illustrious Client
-                'Fireball',
+                'The Illustrious Client',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -644,8 +605,7 @@ module.exports = {
         },
         {
             'In which story does Watson shoot a dog?': [
-              // The Copper Beeches
-                'Fireball',
+                'The Copper Beeches',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -653,8 +613,7 @@ module.exports = {
         },
         {
             'In which story does Kitty Winter throw acid in the villains face?': [
-              //The Illustrious Client
-                'Fireball',
+                'The Illustrious Client',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -662,8 +621,7 @@ module.exports = {
         },
         {
             'Which story centers around the manuscript of a lurid novel?': [
-              // Three Gables
-                'Fireball',
+                'The Three Gables',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -671,8 +629,7 @@ module.exports = {
         },
         {
             'In which story does Watson mention the case of the Giant Rat of Sumatra?': [
-              // Sussex vamp
-                'Fireball',
+                'The Sussex Vampire',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -680,7 +637,7 @@ module.exports = {
         },
         {
             'In which story is a baby the victim of being attacked with poison darts?': [
-                'Fireball',
+                'The Sussex Vampire',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -688,8 +645,7 @@ module.exports = {
         },
         {
             'Which story involves a mistaken case of leprosy?': [
-              // blanched soldier
-                'Fireball',
+                'The Blanched Soldier',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -697,8 +653,7 @@ module.exports = {
         },
         {
             'Which story involves an overthrown Central American dictator?': [
-              // wist lodge
-                'Fireball',
+                'Wisteria Lodge',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -706,8 +661,7 @@ module.exports = {
         },
         {
             'In which story is stolen silver found nearby at the bottom of a pond?': [
-              // abbey grange
-                'Fireball',
+                'The Abbey Grange',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -715,17 +669,15 @@ module.exports = {
         },
         {
             'Which story takes place during Holmes\' retirement in Sussex?': [
-              // lion's mane
-                'Fireball',
+                'The Lion\'s Mane',
                 'Clarice',
                 'Jumper',
                 'Vixen',
             ],
         },
         {
-            'In which story does the murderer hire Holmes to investigate the victims\' disappearance?': [
-              // retired colourman
-                'Fireball',
+            'In which story does the murderer hire Holmes to investigate his victims\' disappearance?': [
+                'The Retired Colourman',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -733,8 +685,7 @@ module.exports = {
         },
         {
             'In which story does the murderer use paint to hide the smell of gas?': [
-              // retired colourman
-                'Fireball',
+                'The Retired Colourman',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -742,8 +693,15 @@ module.exports = {
         },
         {
             'Which story includes someone who was disfigured by a lion?': [
-              // veiled lodger
-                'Fireball',
+                'The Veiled Lodger',
+                'Clarice',
+                'Jumper',
+                'Vixen',
+            ],
+        },
+        {
+            'In The Three Garridebs, what is a Garrideb?': [
+                'an uncommon surname',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -751,8 +709,7 @@ module.exports = {
         },
         {
             'Which involves a body hidden in an old crypt?': [
-              // veiled lodger
-                'Fireball',
+                'Shoscombe Old Place',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -760,7 +717,7 @@ module.exports = {
         },
         {
             'In which story does Holmes refrain from stopping a murder?': [
-                'Black mud',
+                'Charles Augustus Milverton',
                 'Bag',
                 'Pillow case',
                 'Sock',
@@ -768,8 +725,7 @@ module.exports = {
         },
         {
             'Which of the following stories can be considered a locked room mystery?': [
-                // Speckled Band
-                'Dentist',
+                'The Speckled Band',
                 'Reindeer',
                 'Toy maker',
                 'Candlestick maker',
@@ -777,7 +733,8 @@ module.exports = {
         },
         {
             'Which of the following stories involves an all night stakeout?': [
-                'Could not swim',
+              // todo: find better example?
+                'The Red-Headed League',
                 'Always hungry',
                 'Candy canes',
                 'Cross eyed',
@@ -785,8 +742,7 @@ module.exports = {
         },
         {
             'Which of the following stories has a plot very similar to The Red-Headed League?': [
-              // Three Garridebs
-                'Fireball',
+                'The Three Garridebs',
                 'Clarice',
                 'Jumper',
                 'Vixen',
@@ -795,15 +751,24 @@ module.exports = {
         {
             'In which of the following stories does Holmes\' client die?': [
                 // The Five Orange Pips or The Dancing Men
-                'Peppermint',
+                'The Five Orange Pips',
                 'Gold',
                 'India',
                 'Polar Bears',
             ],
         },
         {
+          'Holmes wrote a monograph on which of the following subjects?': [
+            'tobacco ash',
+            'Grasses',
+            'Leaves',
+            'Berries',
+          ],
+        },
+        {
             'In which of the following stories was Watson shot?': [
-                'Square wheels',
+              // TODO: verify
+                'The Three Garridebs',
                 'No Engine',
                 'Paint does not match',
                 'It does not toot',
@@ -811,7 +776,7 @@ module.exports = {
         },
         {
             'Which of the following stories are told in the third person?': [
-                'Charlie',
+                'His Last Bow',
                 'Sam',
                 'Billy',
                 'Jack',
@@ -819,7 +784,7 @@ module.exports = {
         },
         {
             'Which of the following stories does not feature Watson?': [
-                'Storm',
+                'The Mazarin Stone',
                 'No snow',
                 'No toys',
                 'The Reindeer were sick',
@@ -827,7 +792,7 @@ module.exports = {
         },
         {
             'Which of the following stories is written by Holmes himself?': [
-                'Oink',
+                'The Blanched Soldier',
                 'Growl',
                 'Bark',
                 'Meow',
@@ -837,7 +802,7 @@ module.exports = {
             'In which of the following stories does Holmes let the criminal go?': [
               // Abbey Grange
               // Boscomb Valley Mystery
-                'Yukon Cornelius',
+                'Boscombe Valley Mystery',
                 'Slider Sam',
                 'Bumble',
                 'Jack',
@@ -845,7 +810,8 @@ module.exports = {
         },
         {
             'In which of the following stories is a crime not committed?': [
-                '3000 miles',
+              // todo: verify
+                'A Case of Identity',
                 '700 miles',
                 '500 miles',
                 '0 miles',
@@ -854,7 +820,7 @@ module.exports = {
         {
             'Which of the following is not used by Holmes as a weapon?': [
               // hunting crop, cane, pistol
-                '3000 miles',
+                'sword',
                 '700 miles',
                 '500 miles',
                 '0 miles',
@@ -862,7 +828,7 @@ module.exports = {
         },
         {
             'In which of the following stories does Holmes not catch the criminals?': [
-                '48 miles per hour',
+                'The Engineer\'s Thumb',
                 '17 miles per hour',
                 '19 miles per hour',
                 '14 miles per hour',
