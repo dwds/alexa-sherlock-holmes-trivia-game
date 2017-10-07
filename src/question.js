@@ -343,7 +343,7 @@ module.exports = {
             ],
         },
         {
-            'Which villian was inspired by a real life blackmailer?': [
+            'Which villain was inspired by a real life blackmailer?': [
                 'Charles Augustus Milverton',
                 'Professor Moriarty',
                 'Colonel Sebastian Moran',
