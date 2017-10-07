@@ -111,7 +111,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Holmes diguise himself as a clergyman?': [
+            'In which story does Holmes disguise himself as a clergyman?': [
                 'A Scandal in Bohemia',
                 'The Empty House',
                 'The Sign of Four',
@@ -119,7 +119,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Holmes diguise himself as an elderly woman?': [
+            'In which story does Holmes disguise himself as an elderly woman?': [
                 'The Mazarin Stone',
                 'A Scandal in Bohemia',
                 'His Last Bow',
