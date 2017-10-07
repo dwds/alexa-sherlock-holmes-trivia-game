@@ -767,7 +767,7 @@ module.exports = {
             ],
         },
         {
-            'Which of the following stories are told in the third person?': [
+            'Which of the following stories is told in the third person?': [
                 'His Last Bow',
                 'The Lion\'s Mane',
                 'The Hound of the Baskervilles',
