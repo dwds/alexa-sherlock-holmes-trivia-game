@@ -192,11 +192,10 @@ module.exports = {
         },
         {
             'What does Holmes keep as a reward at the end of A Scandal in Bohemia?': [
-              // TODO: answers
                 'a photograph of Irene Adler',
-                'Burl Ives',
-                'Paul Soles',
-                'Lady Gaga',
+                'an emerald ring',
+                'a sum of money',
+                'a book',
             ],
         },
         {
