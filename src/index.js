@@ -31,7 +31,7 @@ const APP_ID =  'amzn1.ask.skill.b74c45b1-fe5a-4f3f-992b-171f23d3aca1';
 const languageString = {
     'en': {
         'translation': {
-            'QUESTIONS': questions['QUESTIONS_EN_US'],
+            'QUESTIONS': questions['QUESTIONS_EN'],
             'GAME_NAME': 'Sherlock Holmes Trivia',
             'HELP_MESSAGE': 'I will ask you %s multiple choice questions. Respond with the number of the answer. ' +
                 'For example, say one, two, three, or four. To start a new game at any time, say, start game. ',
