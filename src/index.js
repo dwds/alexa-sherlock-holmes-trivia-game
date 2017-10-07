@@ -55,12 +55,6 @@ const languageString = {
             'GAME_OVER_MESSAGE': 'You got %s out of %s questions correct. Thank you for playing!',
             'SCORE_IS_MESSAGE': 'Your score is %s. ',
         },
-    },
-    'en': {
-        'translation': {
-            'QUESTIONS': questions['QUESTIONS_EN'],
-            'GAME_NAME': 'Sherlock Holmes Trivia',
-        },
     }
 };
 
