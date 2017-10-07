@@ -115,12 +115,12 @@ module.exports = {
                 'A Scandal in Bohemia',
                 'The Empty House',
                 'The Sign of Four',
-                'The Mazarin Stone',
+                'The <phoneme alphabet="ipa" ph="ˈmɑzɑɹɑn">Mazarin</phoneme> Stone',
             ],
         },
         {
             'In which story does Holmes disguise himself as an elderly woman?': [
-                'The Mazarin Stone',
+                'The <phoneme alphabet="ipa" ph="ˈmɑzɑɹɑn">Mazarin</phoneme> Stone',
                 'A Scandal in Bohemia',
                 'His Last <phoneme alphabet="ipa" ph="baʊ">Bow</phoneme>',
                 'The Man with the Twisted Lip',
@@ -240,7 +240,7 @@ module.exports = {
         },
         {
             'Which story was adapted from a play?': [
-                'The Mazarin Stone',
+                'The <phoneme alphabet="ipa" ph="ˈmɑzɑɹɑn">Mazarin</phoneme> Stone',
                 'Charles Augustus Milverton',
                 'The Creeping Man',
                 'The Second Stain',
@@ -258,7 +258,7 @@ module.exports = {
             'Which story features a gem hidden inside a Christmas goose?': [
                 'The Blue Carbuncle',
                 'The Beryl Coronet',
-                'The Mazarin Stone',
+                'The <phoneme alphabet="ipa" ph="ˈmɑzɑɹɑn">Mazarin</phoneme> Stone',
                 'The Abbey Grange',
             ],
         },
@@ -275,7 +275,7 @@ module.exports = {
                 'The Six Napoleons',
                 'The Blue Carbuncle',
                 'The Three Garridebs',
-                'The Mazarin Stone',
+                'The <phoneme alphabet="ipa" ph="ˈmɑzɑɹɑn">Mazarin</phoneme> Stone',
             ],
         },
         {
@@ -441,7 +441,7 @@ module.exports = {
         {
             'Which story was published between the events of Holmes\' supposed death and his return?': [
                 'The Hound of the Baskervilles',
-                'The Mazarin Stone',
+                'The <phoneme alphabet="ipa" ph="ˈmɑzɑɹɑn">Mazarin</phoneme> Stone',
                 'The Gloria Scott',
                 'Shoscombe Old Place',
             ],
