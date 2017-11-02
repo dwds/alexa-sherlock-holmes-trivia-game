@@ -202,7 +202,7 @@ function handleUserGuess(userGaveUp) {
         });
 
         this.response.speak(speechOutput).listen(repromptText);
-        this.response.cardRenderer(this.t('GAME_NAME', repromptText));
+        this.response.cardRenderer(this.t('GAME_NAME', "Hello everyone"));
         this.emit(':responseReady');
     }
 }
@@ -241,7 +241,7 @@ const startStateHandlers = Alexa.CreateStateHandler(GAME_STATES.START, {
         this.handler.state = GAME_STATES.TRIVIA;
 
         this.response.speak(speechOutput).listen(repromptText);
-        this.response.cardRenderer(this.t('GAME_NAME'), repromptText);
+        this.response.cardRenderer(this.t('GAME_NAME'), "Hello nobody");
         this.emit(':responseReady');
     },
 });
