@@ -160,14 +160,14 @@ module.exports = {
         },
         {
             'Which is the only short story to be divided into two parts?': [
-                'Wisteria Lodge',
+                'Wisteria <phoneme alphabet="ipa" ph="ˈlɑdd͡ʒ">Lodge</phoneme>',
                 'The Six Napoleons',
                 'The Bruce-Partington Plans',
                 'The Second Stain',
             ],
         },
         {
-            'Which story features elements of science-fiction, with a man taking on traits of a monkey?': [ //fix
+            'Which story features elements of science-fiction, with a man taking on traits of a <phoneme alphabet="ipa" ph="mʌnki">monkey</phoneme>?': [
                 'The Creeping Man',
                 'The Crooked Man',
                 'The Dancing Men',
@@ -226,7 +226,7 @@ module.exports = {
             'Which story first reveals Holmes use of a "seven percent solution"?': [
                 'The Sign of Four',
                 'The Dying Detective',
-                'The Five Orange Pips',
+                'The Five Orange <phoneme alphabet="ipa" ph="pɪps">Pips</phoneme>',
                 'A Study in Scarlet',
             ],
         },
@@ -267,7 +267,7 @@ module.exports = {
                 'The Gloria Scott',
                 'The Musgrave Ritual',
                 'A Study in Scarlet',
-                'Wisteria Lodge',
+                'Wisteria <phoneme alphabet="ipa" ph="ˈlɑdd͡ʒ">Lodge</phoneme>',
             ],
         },
         {
@@ -280,7 +280,7 @@ module.exports = {
         },
         {
             'In which story does Holmes\' client receive an ominous letter from the Ku Klux Klan.': [
-                'The Five Orange Pips',
+                'The Five Orange <phoneme alphabet="ipa" ph="pɪps">Pips</phoneme>',
                 'A Study in Scarlet',
                 'The Valley of Fear',
                 'The Yellow Face',
@@ -291,7 +291,7 @@ module.exports = {
                 'Silver Blaze',
                 'The Missing Three-Quarter',
                 'The Disappearance of Lady Frances Carfax',
-                'The Boscombe Valley Mystery',
+                'The <phoneme alphabet="ipa" ph="ˈbɔskoʊmb">Boscombe</phoneme> Valley Mystery',
             ],
         },
         {
@@ -339,7 +339,7 @@ module.exports = {
                 'The Priory School',
                 'The Lion\'s Mane',
                 'The Musgrave Ritual',
-                'The Boscombe Valley Mystery',
+                'The <phoneme alphabet="ipa" ph="ˈbɔskoʊmb">Boscombe</phoneme> Valley Mystery',
             ],
         },
         {
@@ -395,7 +395,7 @@ module.exports = {
                 'The Valley of Fear',
                 'The Dancing Men',
                 'The Red-Headed League',
-                'The Five Orange Pips',
+                'The Five Orange <phoneme alphabet="ipa" ph="pɪps">Pips</phoneme>',
             ],
         },
         {
@@ -408,7 +408,7 @@ module.exports = {
         },
         {
             'In which story was the murderer a Russian Nihilist.': [
-                'The Golden Pince-Nez',
+                'The Golden Pince-<phoneme alphabet="ipa" ph="ˈneɪ">Nez</phoneme>',
                 'The Naval Treaty',
                 'The Bruce-Partington Plans',
                 'The Resident Patient',
@@ -475,7 +475,7 @@ module.exports = {
                 'Black Peter',
                 'The Sign of Four',
                 'The Gloria Scott',
-                'The Five Orange Pips',
+                'The Five Orange <phoneme alphabet="ipa" ph="pɪps">Pips</phoneme>',
             ],
         },
         {
@@ -528,7 +528,7 @@ module.exports = {
         },
         {
             'In A Study in Scarlet, what is the word written in blood on the wall?': [
-                'RACHE', // fix
+                '<phoneme alphabet="ipa" ph="ˈɹɑhə">RACHE</phoneme>',
                 'REVENGE',
                 'RACHEL',
                 'REDRUM',
@@ -586,16 +586,15 @@ module.exports = {
             'In The Valley of Fear, what is the name of the gang that terrorizes the valley?': [
                 'The Scowrers',
                 'The Ravagers',
-                'The Lodge',
+                'The <phoneme alphabet="ipa" ph="ˈlɑdd͡ʒ">Lodge</phoneme>',
                 'The Coyotes',
             ],
         },
         {
-            'In which story does Watson learn everything he can about Chinese pottery?': [
-              // fix
+            'In which story does Watson learn everything he <phoneme alphabet="ipa" ph="ˈkæn">can</phoneme> about Chinese pottery?': [
                 'The Illustrious Client',
                 'The Sign of Four',
-                'The Golden Pince-Nez',
+                'The Golden Pince-<phoneme alphabet="ipa" ph="ˈneɪ">Nez</phoneme>',
                 'The Reigate Squire',
             ],
         },
@@ -610,7 +609,7 @@ module.exports = {
         {
             'In which story does Kitty Winter throw acid in the villain\'s face.': [
                 'The Illustrious Client',
-                'Wisteria Lodge',
+                'Wisteria <phoneme alphabet="ipa" ph="ˈlɑdd͡ʒ">Lodge</phoneme>',
                 'Charles Augustus Milverton',
                 'Black Peter',
             ],
@@ -649,7 +648,7 @@ module.exports = {
         },
         {
             'Which story involves an overthrown Central American dictator?': [
-                'Wisteria Lodge',
+                'Wisteria <phoneme alphabet="ipa" ph="ˈlɑdd͡ʒ">Lodge</phoneme>',
                 'The Valley of Fear',
                 'The Sign of Four',
                 'The Disappearance of Lady Frances Carfax',
@@ -714,7 +713,7 @@ module.exports = {
         {
             'In which story does Holmes refrain from stopping a murder.': [
                 'Charles Augustus Milverton',
-                'The Boscombe Valley Mystery',
+                'The <phoneme alphabet="ipa" ph="ˈbɔskoʊmb">Boscombe</phoneme> Valley Mystery',
                 'The Second Stain',
                 'The Crooked Man',
             ],
@@ -740,12 +739,12 @@ module.exports = {
                 'The Three Garridebs',
                 'The Solitary Cylist',
                 'The Greek Interpreter',
-                'The Golden Pince-Nez',
+                'The Golden Pince-<phoneme alphabet="ipa" ph="ˈneɪ">Nez</phoneme>',
             ],
         },
         {
             'In which of the following stories does Holmes\' client die.': [
-                'The Five Orange Pips',
+                'The Five Orange <phoneme alphabet="ipa" ph="pɪps">Pips</phoneme>',
                 'The Missing Three-Quarter',
                 'The Blanched Soldier',
                 'The Stockbroker\'s Clerk',
@@ -780,7 +779,7 @@ module.exports = {
                 'The Blanched Soldier',
                 'His Last <phoneme alphabet="ipa" ph="baʊ">Bow</phoneme>',
                 'The Dying Detective',
-                'Wisteria Lodge',
+                'Wisteria <phoneme alphabet="ipa" ph="ˈlɑdd͡ʒ">Lodge</phoneme>',
             ],
         },
         {
@@ -793,10 +792,10 @@ module.exports = {
         },
         {
             'In which of the following stories does Holmes let the killer go.': [
-                'The Boscombe Valley Mystery',
+                'The <phoneme alphabet="ipa" ph="ˈbɔskoʊmb">Boscombe</phoneme> Valley Mystery',
                 'The Retired Colourman',
                 'The Problem of Thor Bridge',
-                'The Golden Pince-Nez',
+                'The Golden Pince-<phoneme alphabet="ipa" ph="ˈneɪ">Nez</phoneme>',
             ],
         },
         {
