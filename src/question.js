@@ -39,7 +39,7 @@ module.exports = {
             ],
         },
         {
-            'Which story features the first appearance of the Baker Street Irregulars': [
+            'Which story features the first appearance of the Baker Street Irregulars?': [
                 'A Study in Scarlet',
                 'The Sign of Four',
                 'The Blue Carbuncle',
@@ -111,7 +111,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Holmes disguise himself as a clergyman?': [
+            'In which story does Holmes disguise himself as a clergyman.': [
                 'A Scandal in Bohemia',
                 'The Empty House',
                 'The Sign of Four',
@@ -119,7 +119,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Holmes disguise himself as an elderly woman?': [
+            'In which story does Holmes disguise himself as an elderly woman.': [
                 'The <phoneme alphabet="ipa" ph="ˈmɑzɑɹɑn">Mazarin</phoneme> Stone',
                 'A Scandal in Bohemia',
                 'His Last <phoneme alphabet="ipa" ph="baʊ">Bow</phoneme>',
@@ -143,7 +143,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Watson meet Mary Morstan?': [
+            'In which story does Watson meet Mary Morstan.': [
                 'The Sign of Four',
                 'The Red-Headed League',
                 'The Solitary Cyclist',
@@ -167,7 +167,7 @@ module.exports = {
             ],
         },
         {
-            'Which story features elements of science-fiction, with a man taking on traits of a monkey?': [
+            'Which story features elements of science-fiction, with a man taking on traits of a monkey?': [ //fix
                 'The Creeping Man',
                 'The Crooked Man',
                 'The Dancing Men',
@@ -175,7 +175,7 @@ module.exports = {
             ],
         },
         {
-            'In which story is Holmes hired by a rugby coach?': [
+            'In which story is Holmes hired by a rugby coach.': [
                 'The Missing Three-Quarter',
                 'The Reigate Squire',
                 'The Red Circle',
@@ -183,7 +183,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Holmes catch the criminal by faking a fire?': [
+            'In which story does Holmes catch the criminal by faking a fire.': [
                 'The Norwood Builder',
                 'The Retired Colourman',
                 'The Valley of Fear',
@@ -215,7 +215,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Watson find Holmes in an opium den?': [
+            'In which story does Watson find Holmes in an opium den.': [
                 'The Man with the Twisted Lip',
                 'The Beryl Coronet',
                 'The Illustrious Client',
@@ -231,7 +231,7 @@ module.exports = {
             ],
         },
         {
-            'The "seven percent solution" refers to what?': [
+            'The "seven percent solution" refers to what.': [
                 'cocaine',
                 'one of Holmes\' methods of deduction',
                 'Holmes\' tendency to hide the full solution to a case',
@@ -247,7 +247,7 @@ module.exports = {
             ],
         },
         {
-            'What is the name of the illustrator who first depicted Holmes in his iconic deerstalker cap?': [
+            'What is the name of the illustrator who first depicted Holmes in his iconic deer stalker cap?': [
                 'Sidney Paget',
                 'Charles Doyle',
                 'William Wollen',
@@ -279,7 +279,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Holmes\' client recieve an ominous letter from the Ku Klux Klan?': [
+            'In which story does Holmes\' client receive an ominous letter from the Ku Klux Klan.': [
                 'The Five Orange Pips',
                 'A Study in Scarlet',
                 'The Valley of Fear',
@@ -287,7 +287,7 @@ module.exports = {
             ],
         },
         {
-            'Which story centers around a missing race horse?': [
+            'Which story centers around a missing racehorse?': [
                 'Silver Blaze',
                 'The Missing Three-Quarter',
                 'The Disappearance of Lady Frances Carfax',
@@ -311,7 +311,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Holmes fight Professor Moriarty to the death?': [
+            'In which story does Holmes fight Professor Moriarty to the death.': [
                 'The Final Problem',
                 'His Last <phoneme alphabet="ipa" ph="baʊ">Bow</phoneme>',
                 'The Dying Detective',
@@ -327,7 +327,7 @@ module.exports = {
             ],
         },
         {
-            'In which story is a missing dumbbell a key clue?': [
+            'In which story is a missing dumbbell a key clue.': [
                 'The Valley of Fear',
                 'The Missing Three-Quarter',
                 'The Norwood Builder',
@@ -335,7 +335,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Holmes find bicycle tracks and cow tracks?': [
+            'In which story does Holmes find bicycle tracks and cow tracks.': [
                 'The Priory School',
                 'The Lion\'s Mane',
                 'The Musgrave Ritual',
@@ -359,7 +359,7 @@ module.exports = {
             ],
         },
         {
-            'In what country are the Reichenbach Falls?': [
+            'In what country are the Reichenbach Falls.': [
                 'Switzerland',
                 'Austria',
                 'Germany',
@@ -391,7 +391,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Holmes use a copy of Whitaker\'s Almanac to decipher a message?': [
+            'In which story does Holmes use a copy of Whitaker\'s Almanac to decipher a message.': [
                 'The Valley of Fear',
                 'The Dancing Men',
                 'The Red-Headed League',
@@ -407,7 +407,7 @@ module.exports = {
             ],
         },
         {
-            'In which story was the murderer a Russian Nihilist?': [
+            'In which story was the murderer a Russian Nihilist.': [
                 'The Golden Pince-Nez',
                 'The Naval Treaty',
                 'The Bruce-Partington Plans',
@@ -447,7 +447,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Holmes starve himself as part of a ruse?': [
+            'In which story does Holmes starve himself as part of a ruse.': [
                 'The Dying Detective',
                 'The Resident Patient',
                 'The Norwood Builder',
@@ -471,7 +471,7 @@ module.exports = {
             ],
         },
         {
-            'In which story is someone murdered with a harpoon?': [
+            'In which story is someone murdered with a harpoon.': [
                 'Black Peter',
                 'The Sign of Four',
                 'The Gloria Scott',
@@ -479,7 +479,7 @@ module.exports = {
             ],
         },
         {
-            'In which story is someone murdered with a snake?': [
+            'In which story is someone murdered with a snake.': [
                 'The Speckled Band',
                 'The Man with the Twisted Lip',
                 'The Cardboard Box',
@@ -487,7 +487,7 @@ module.exports = {
             ],
         },
         {
-            'In which story is someone murdered with a poisonous root?': [
+            'In which story is someone murdered with a poisonous root.': [
                 'The Devil\'s Foot',
                 'The Dying Detective',
                 'Black Peter',
@@ -495,7 +495,7 @@ module.exports = {
             ],
         },
         {
-            'In which story is someone nearly crushed to death in a hydraulic press?': [
+            'In which story is someone nearly crushed to death in a hydraulic press.': [
                 'The Engineer\'s Thumb',
                 'The Red-Headed League',
                 'The Final Problem',
@@ -503,7 +503,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Holmes tie Watson\'s revolver to a rock?': [
+            'In which story does Holmes tie Watson\'s revolver to a rock.': [
                 'The Problem of Thor Bridge',
                 'Silver Blaze',
                 'The Copper Beeches',
@@ -511,7 +511,7 @@ module.exports = {
             ],
         },
         {
-            'In which story do Holmes and Watson prevent a forced marriage?': [
+            'In which story do Holmes and Watson prevent a forced marriage.': [
                 'The Solitary Cyclist',
                 'A Scandal in Bohemia',
                 'Charles Augustus Milverton',
@@ -528,7 +528,7 @@ module.exports = {
         },
         {
             'In A Study in Scarlet, what is the word written in blood on the wall?': [
-                'RACHE',
+                'RACHE', // fix
                 'REVENGE',
                 'RACHEL',
                 'REDRUM',
@@ -543,11 +543,11 @@ module.exports = {
             ],
         },
         {
-            'In what war did Watson serve?': [
-                'Second Anglo-Afghan War',
-                'Third Ashanti War',
-                'First Boer War',
-                'Anglo-Zulu War',
+            'In what war did Watson serve.': [
+                'The Second Anglo-Afghan War',
+                'The Third Ashanti War',
+                'The First Boer War',
+                'The Anglo-Zulu War',
             ],
         },
         {
@@ -567,7 +567,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Watson attempt to use Holmes\' methods of deduction on Dr. Mortimer\'s walking stick?': [
+            'In which story does Watson attempt to use Holmes\' methods of deduction on Dr. Mortimer\'s walking-stick.': [
                 'The Hound of the Baskervilles',
                 'The Noble Bachelor',
                 'The Priory School',
@@ -592,6 +592,7 @@ module.exports = {
         },
         {
             'In which story does Watson learn everything he can about Chinese pottery?': [
+              // fix
                 'The Illustrious Client',
                 'The Sign of Four',
                 'The Golden Pince-Nez',
@@ -599,7 +600,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Watson shoot a dog?': [
+            'In which story does Watson shoot a dog.': [
                 'The Copper Beeches',
                 'The Hound of the Baskervilles',
                 'The Engineer\'s Thumb',
@@ -607,7 +608,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Kitty Winter throw acid in the villain\'s face?': [
+            'In which story does Kitty Winter throw acid in the villain\'s face.': [
                 'The Illustrious Client',
                 'Wisteria Lodge',
                 'Charles Augustus Milverton',
@@ -623,7 +624,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Watson mention the case of the Giant Rat of Sumatra?': [
+            'In which story does Watson mention the case of the Giant Rat of Sumatra.': [
                 'The Sussex Vampire',
                 'The Beryl Coronet',
                 'The Hound of the Baskervilles',
@@ -631,7 +632,7 @@ module.exports = {
             ],
         },
         {
-            'In which story is a baby the victim of being attacked with poison darts?': [
+            'In which story is a baby the victim of being attacked with poison darts.': [
                 'The Sussex Vampire',
                 'The Red Circle',
                 'The Yellow Face',
@@ -655,7 +656,7 @@ module.exports = {
             ],
         },
         {
-            'In which story is stolen silver found nearby at the bottom of a pond?': [
+            'In which story is stolen silver found nearby at the bottom of a pond.': [
                 'The Abbey Grange',
                 'Silver Blaze',
                 'Shoscombe Old Place',
@@ -671,7 +672,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does the murderer hire Holmes to investigate his victims\' disappearance?': [
+            'In which story does the murderer hire Holmes to investigate his victims\' disappearance.': [
                 'The Retired Colourman',
                 'The Noble Bachelor',
                 'Black Peter',
@@ -679,7 +680,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does the murderer use paint to hide the smell of gas?': [
+            'In which story does the murderer use paint to hide the smell of gas.': [
                 'The Retired Colourman',
                 'The Three Garridebs',
                 'The Devil\'s Foot',
@@ -703,7 +704,7 @@ module.exports = {
             ],
         },
         {
-            'Which involves a body hidden in an old crypt?': [
+            'Which story involves a body hidden in an old crypt?': [
                 'Shoscombe Old Place',
                 'The Sussex Vampire',
                 'The Musgrave Ritual',
@@ -711,7 +712,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Holmes refrain from stopping a murder?': [
+            'In which story does Holmes refrain from stopping a murder.': [
                 'Charles Augustus Milverton',
                 'The Boscombe Valley Mystery',
                 'The Second Stain',
@@ -743,7 +744,7 @@ module.exports = {
             ],
         },
         {
-            'In which of the following stories does Holmes\' client die?': [
+            'In which of the following stories does Holmes\' client die.': [
                 'The Five Orange Pips',
                 'The Missing Three-Quarter',
                 'The Blanched Soldier',
@@ -751,7 +752,7 @@ module.exports = {
             ],
         },
         {
-          'Holmes wrote a monograph on which of the following subjects?': [
+          'Holmes wrote a monograph on which of the following subjects.': [
             'tobacco ash',
             'handwriting analysis',
             'footprints',
@@ -759,7 +760,7 @@ module.exports = {
           ],
         },
         {
-            'In which of the following stories was Watson shot?': [
+            'In which of the following stories was Watson shot.': [
                 'The Three Garridebs',
                 'The Three Gables',
                 'The Three Students',
@@ -791,7 +792,7 @@ module.exports = {
             ],
         },
         {
-            'In which of the following stories does Holmes let the killer go?': [
+            'In which of the following stories does Holmes let the killer go.': [
                 'The Boscombe Valley Mystery',
                 'The Retired Colourman',
                 'The Problem of Thor Bridge',
@@ -799,7 +800,7 @@ module.exports = {
             ],
         },
         {
-            'In which of the following stories is a crime not committed?': [
+            'In which of the following stories is a crime not committed.': [
                 'The Noble Bachelor',
                 'The Norwood Builder',
                 'The Dancing Men',
@@ -815,7 +816,7 @@ module.exports = {
             ],
         },
         {
-            'In which of the following stories does Holmes not catch the criminals?': [
+            'In which of the following stories does Holmes not catch the criminals.': [
                 'The Engineer\'s Thumb',
                 'The Speckled Band',
                 'The Three Garridebs',
