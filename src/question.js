@@ -74,7 +74,7 @@ module.exports = {
             'Which was the last Holmes story to be published?': [
                 'Shoscombe Old Place',
                 'The Retired Colourman',
-                'His Last Bow',
+                'His Last <phoneme alphabet="ipa" ph="baʊ">Bow</phoneme>',
                 'The Final Problem',
             ],
         },
