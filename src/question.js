@@ -19,7 +19,7 @@ module.exports = {
                 'The Final Problem',
                 'The Crooked Man',
                 'The Empty House',
-                'His Last <phoneme alphabet="ipa" ph="baʊ">Bow</phoneme>'
+                'His Last <w role="amazon:SENSE_1">Bow</w>'
             ],
         },
         {
@@ -74,7 +74,7 @@ module.exports = {
             'Which was the last Holmes story to be published?': [
                 'Shoscombe Old Place',
                 'The Retired Colourman',
-                'His Last <phoneme alphabet="ipa" ph="baʊ">Bow</phoneme>',
+                'His Last <w role="amazon:SENSE_1">Bow</w>',
                 'The Final Problem',
             ],
         },
@@ -122,7 +122,7 @@ module.exports = {
             'In which story does Holmes disguise himself as an elderly woman.': [
                 'The <phoneme alphabet="ipa" ph="ˈmɑzɑɹɑn">Mazarin</phoneme> Stone',
                 'A Scandal in Bohemia',
-                'His Last <phoneme alphabet="ipa" ph="baʊ">Bow</phoneme>',
+                'His Last <w role="amazon:SENSE_1">Bow</w>',
                 'The Man with the Twisted Lip',
             ],
         },
@@ -313,7 +313,7 @@ module.exports = {
         {
             'In which story does Holmes fight Professor Moriarty to the death.': [
                 'The Final Problem',
-                'His Last <phoneme alphabet="ipa" ph="baʊ">Bow</phoneme>',
+                'His Last <w role="amazon:SENSE_1">Bow</w>',
                 'The Dying Detective',
                 'The Problem of Thor Bridge',
             ],
@@ -464,7 +464,7 @@ module.exports = {
         },
         {
             'Which story is set on the eve of World War One?': [
-                'His Last <phoneme alphabet="ipa" ph="baʊ">Bow</phoneme>',
+                'His Last <w role="amazon:SENSE_1">Bow</w>',
                 'The Naval Treaty',
                 'The Greek Interpreter',
                 'A Scandal in Bohemia',
@@ -768,7 +768,7 @@ module.exports = {
         },
         {
             'Which of the following stories is told in the third person?': [
-                'His Last <phoneme alphabet="ipa" ph="baʊ">Bow</phoneme>',
+                'His Last <w role="amazon:SENSE_1">Bow</w>',
                 'The Lion\'s Mane',
                 'The Hound of the Baskervilles',
                 'The Blanched Soldier',
@@ -777,7 +777,7 @@ module.exports = {
         {
             'Which of the following stories does not feature Watson?': [
                 'The Blanched Soldier',
-                'His Last <phoneme alphabet="ipa" ph="baʊ">Bow</phoneme>',
+                'His Last <w role="amazon:SENSE_1">Bow</w>',
                 'The Dying Detective',
                 'Wisteria <phoneme alphabet="ipa" ph="ˈlɑdd͡ʒ">Lodge</phoneme>',
             ],
