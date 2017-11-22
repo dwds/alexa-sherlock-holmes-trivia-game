@@ -103,7 +103,7 @@ module.exports = {
             ],
         },
         {
-            'In The Speckled Band, what object is bent by both Dr. Roylott and Holmes as a show of strength?': [
+            'In The Speckled Band, what object is bent by both Doctor Roylott and Holmes as a show of strength?': [
                 'a fireplace poker',
                 'a sword',
                 'a barbell',
@@ -135,7 +135,7 @@ module.exports = {
             ],
         },
         {
-            'Which story features the first appearance of Mrs. Hudson?': [
+            'Which story features the first appearance of Mrs Hudson?': [
                 'The Sign of Four',
                 'A Study in Scarlet',
                 'A Case of Identity',
@@ -567,7 +567,7 @@ module.exports = {
             ],
         },
         {
-            'In which story does Watson attempt to use Holmes\' methods of deduction on Dr. Mortimer\'s walking-stick.': [
+            'In which story does Watson attempt to use Holmes\' methods of deduction on Doctor Mortimer\'s walking-stick.': [
                 'The Hound of the Baskervilles',
                 'The Noble Bachelor',
                 'The Priory School',
