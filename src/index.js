@@ -202,8 +202,7 @@ function handleUserGuess(userGaveUp) {
         });
 
         this.response.speak(speechOutput).listen(repromptText);
-        // Doesn't appear
-        this.response.cardRenderer(this.t('GAME_NAME', repromptText.replace(/(<([^>]+)>)/ig,"")));
+        this.response.cardRenderer(this.t('GAME_NAME'), repromptText.replace(/(<([^>]+)>)/ig,""));
         this.emit(':responseReady');
     }
 }
